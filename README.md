@@ -6,7 +6,7 @@ Mở terminal > nhập `vimtutor` để bắt đầu học về vim <br>
 1. Di chuyển con trỏ bằng các phím mũi tên hoặc phím `hjkl`.<br>
          h (trái) j (dưới) k (trên cùng) l (phải)
 
-2. Để khởi chạy Vim, nhập tên tệp vim `<ENTER>` tại dấu nhắc.<br>
+2. Để khởi chạy Vim, nhập `vim filename` <ENTER> tại dấu nhắc.<br>
 
 3. Để thoát Vim, nhập `<ESC>: q! <ENTER>` (loại bỏ các thay đổi của bạn).<br>
                Hoặc nhập `<ESC>: wq <ENTER>` (lưu thay đổi). <br>
