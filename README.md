@@ -129,3 +129,6 @@ LƯU Ý: Nhấn phím `<ESC>` để chuyển sang chế độ bình thường. T
 
 6.: Nhập CTRL-D để xem các hoàn thành có thể cho: lệnh. <br>
       Nhấn <TAB> để sử dụng hoàn tất. <br>
+
+## Other
+1. copy dòng : yy
