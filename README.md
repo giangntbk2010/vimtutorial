@@ -2,6 +2,7 @@
 Mở terminal > nhập `vimtutor` để bắt đầu học về vim <br>
 ※Đừng quên cài đặt vim nhé.<br>
 ※Bạn cũng có thể cài đặt plugin vim trên VS code để thực hành <br>
+※Vim cheat sheet http://vim.rtorr.com/
 ## Bài 1 
 1. Di chuyển con trỏ bằng các phím mũi tên hoặc phím `hjkl`.<br>
          h (trái) j (dưới) k (trên cùng) l (phải)
